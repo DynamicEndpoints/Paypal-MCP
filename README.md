@@ -1,5 +1,11 @@
 # PayPal MCP Server
 
+[![CI](https://github.com/DynamicEndpoints/Paypal-MCP/actions/workflows/ci.yml/badge.svg)](https://github.com/DynamicEndpoints/Paypal-MCP/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+
+> Maintained by [DynamicEndpoints](https://github.com/DynamicEndpoints) - Contact: kameron@dynamicendpoints.com
+
 A Model Context Protocol (MCP) server that provides integration with PayPal's APIs. This server enables seamless interaction with PayPal's payment processing, invoicing, and business management features through a standardized interface.
 
 ## Architecture
