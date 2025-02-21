@@ -3,6 +3,7 @@
 [![CI](https://github.com/DynamicEndpoints/Paypal-MCP/actions/workflows/ci.yml/badge.svg)](https://github.com/DynamicEndpoints/Paypal-MCP/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+[![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/Paypal-MCP)](https://smithery.ai/server/@DynamicEndpoints/Paypal-MCP)
 
 > Maintained by [DynamicEndpoints](https://github.com/DynamicEndpoints) - Contact: kameron@dynamicendpoints.com
 
@@ -70,6 +71,15 @@ graph TB
 
 ## Installation
 
+### Installing via Smithery
+
+To install PayPal MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@DynamicEndpoints/Paypal-MCP):
+
+```bash
+npx -y @smithery/cli install @DynamicEndpoints/Paypal-MCP --client claude
+```
+
+### Manual Installation
 1. Clone the repository
 2. Install dependencies:
    ```bash
