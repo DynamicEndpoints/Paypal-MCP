@@ -9,6 +9,10 @@
 
 A Model Context Protocol (MCP) server that provides integration with PayPal's APIs. This server enables seamless interaction with PayPal's payment processing, invoicing, and business management features through a standardized interface.
 
+<a href="https://glama.ai/mcp/servers/6op9uaqyev">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/6op9uaqyev/badge" alt="PayPal MCP server" />
+</a>
+
 ## Architecture
 
 ```mermaid
